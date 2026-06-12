@@ -11,7 +11,7 @@ A 2D videogame of magic duels made in Unity by Giovanni Battilana, music by Fabi
 ## Controls
 - WASD to move your player
 - Space to dash while moving
-- Left mouse click to cast Strikando at your viewfinder
+- Left mouse click to cast Strikando to your viewfinder
 - Hold left mouse click for one second to cast a more powerwful version of Strikando
 - Right mouse click to cast Defendo
 
