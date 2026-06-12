@@ -1,4 +1,4 @@
-# DrasticMagicDuels
+# Drastic Magic Duels
 A 2D videogame of magic duels made in Unity by Giovanni Battilana, music by Fabio Cuccu.
 
 ## Features
