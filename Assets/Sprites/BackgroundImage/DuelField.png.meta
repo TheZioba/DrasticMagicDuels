@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 000197c4f8ff9a643b009ae5d637bb85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4337869226527280883
+    second: campo_bacchette_incrociate_1_1_0
+  - first:
+      213: -6364999484451221758
+    second: campo_bacchette_incrociate_1_1_1
+  - first:
+      213: 8852977331117742513
+    second: campo_bacchette_incrociate_1_1_2
+  - first:
+      213: 3882544645424463122
+    second: campo_bacchette_incrociate_1_1_3
+  - first:
+      213: -1958739987358786669
+    second: campo_bacchette_incrociate_1_1_4
+  - first:
+      213: 6802635497533540045
+    second: campo_bacchette_incrociate_1_1_5
+  - first:
+      213: -5741732237992733282
+    second: campo_bacchette_incrociate_1_1_6
+  - first:
+      213: -3151053090978762822
+    second: campo_bacchette_incrociate_1_1_7
+  - first:
+      213: -8689572525995378495
+    second: campo_bacchette_incrociate_1_1_8
+  - first:
+      213: -5034350806739801260
+    second: campo_bacchette_incrociate_1_1_9
+  - first:
+      213: 7734060019359111329
+    second: campo_bacchette_incrociate_1_1_10
+  - first:
+      213: -5790498838111109277
+    second: campo_bacchette_incrociate_1_1_11
+  - first:
+      213: -2477690915834170425
+    second: campo_bacchette_incrociate_1_1_12
+  - first:
+      213: 8450936942110616030
+    second: campo_bacchette_incrociate_1_1_13
+  - first:
+      213: 157868648492795098
+    second: campo_bacchette_incrociate_1_1_14
+  - first:
+      213: -3892533047255576483
+    second: campo_bacchette_incrociate_1_1_15
+  - first:
+      213: -5531769808850461986
+    second: campo_bacchette_incrociate_1_1_16
+  - first:
+      213: -8439332648576175081
+    second: campo_bacchette_incrociate_1_1_17
+  - first:
+      213: 3206943099533998849
+    second: campo_bacchette_incrociate_1_1_18
+  - first:
+      213: 1567152192139699147
+    second: campo_bacchette_incrociate_1_1_19
+  - first:
+      213: 5739286673302329472
+    second: campo_bacchette_incrociate_1_1_20
+  - first:
+      213: -156766336248355111
+    second: campo_bacchette_incrociate_1_1_21
+  - first:
+      213: 9187019032498982703
+    second: campo_bacchette_incrociate_1_1_22
+  - first:
+      213: -1196577702211616791
+    second: campo_bacchette_incrociate_1_1_23
+  - first:
+      213: 8654070215359429502
+    second: campo_bacchette_incrociate_1_1_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: campo_bacchette_incrociate_1_1_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 727
+        width: 70
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fec1491415333c30800000000000000
+      internalID: 4337869226527280883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_bacchette_incrociate_1_1_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 746
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f8dbd21bafaa7a0800000000000000
+      internalID: -6364999484451221758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_bacchette_incrociate_1_1_2
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 745
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9dbd14af71cda70800000000000000
+      internalID: 8852977331117742513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_bacchette_incrociate_1_1_3
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 743
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dbe1fc8c191e530800000000000000
+      internalID: 3882544645424463122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_bacchette_incrociate_1_1_4
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 735
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b502efb5821d4e0800000000000000
+      internalID: -1958739987358786669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_bacchette_incrociate_1_1_5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 744
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc603fe61f0d76e50800000000000000
+      internalID: 6802635497533540045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_bacchette_incrociate_1_1_6
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 746
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95d80753f44150b0800000000000000
+      internalID: -5741732237992733282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_bacchette_incrociate_1_1_7
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 747
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf60d3a8e53544d0800000000000000
+      internalID: -3151053090978762822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_bacchette_incrociate_1_1_8
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 734
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c83d02b3df686780800000000000000
+      internalID: -8689572525995378495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_bacchette_incrociate_1_1_9
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 735
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ba2994d94622ab0800000000000000
+      internalID: -5034350806739801260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_bacchette_incrociate_1_1_10
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 728
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8537d5c96e45b60800000000000000
+      internalID: 7734060019359111329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_bacchette_incrociate_1_1_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 719
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f33127cf304afa0800000000000000
+      internalID: -5790498838111109277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_bacchette_incrociate_1_1_12
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 720
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3fd7a4d397d9dd0800000000000000
+      internalID: -2477690915834170425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_bacchette_incrociate_1_1_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 678
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9aab5bf52c74570800000000000000
+      internalID: 8450936942110616030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_bacchette_incrociate_1_1_14
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 692
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4859a03bcd03200800000000000000
+      internalID: 157868648492795098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_bacchette_incrociate_1_1_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 703
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50dcd921d1faf9c0800000000000000
+      internalID: -3892533047255576483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_bacchette_incrociate_1_1_16
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 695
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edadc3cdaa43b33b0800000000000000
+      internalID: -5531769808850461986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_bacchette_incrociate_1_1_17
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 696
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714b24c6ba771ea80800000000000000
+      internalID: -8439332648576175081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_bacchette_incrociate_1_1_18
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 704
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b3d9602c9518c20800000000000000
+      internalID: 3206943099533998849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_bacchette_incrociate_1_1_19
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 693
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc326799d94afb510800000000000000
+      internalID: 1567152192139699147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_bacchette_incrociate_1_1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1366
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088915242da06af40800000000000000
+      internalID: 5739286673302329472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_bacchette_incrociate_1_1_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 678
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d66d2709dd03ddf0800000000000000
+      internalID: -156766336248355111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_bacchette_incrociate_1_1_22
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 677
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fcad89229de7f70800000000000000
+      internalID: 9187019032498982703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_bacchette_incrociate_1_1_23
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 678
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eff5896be6e46fe0800000000000000
+      internalID: -1196577702211616791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_bacchette_incrociate_1_1_24
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 679
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b79c7720f691870800000000000000
+      internalID: 8654070215359429502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      campo_bacchette_incrociate_1_1_0: 4337869226527280883
+      campo_bacchette_incrociate_1_1_1: -6364999484451221758
+      campo_bacchette_incrociate_1_1_10: 7734060019359111329
+      campo_bacchette_incrociate_1_1_11: -5790498838111109277
+      campo_bacchette_incrociate_1_1_12: -2477690915834170425
+      campo_bacchette_incrociate_1_1_13: 8450936942110616030
+      campo_bacchette_incrociate_1_1_14: 157868648492795098
+      campo_bacchette_incrociate_1_1_15: -3892533047255576483
+      campo_bacchette_incrociate_1_1_16: -5531769808850461986
+      campo_bacchette_incrociate_1_1_17: -8439332648576175081
+      campo_bacchette_incrociate_1_1_18: 3206943099533998849
+      campo_bacchette_incrociate_1_1_19: 1567152192139699147
+      campo_bacchette_incrociate_1_1_2: 8852977331117742513
+      campo_bacchette_incrociate_1_1_20: 5739286673302329472
+      campo_bacchette_incrociate_1_1_21: -156766336248355111
+      campo_bacchette_incrociate_1_1_22: 9187019032498982703
+      campo_bacchette_incrociate_1_1_23: -1196577702211616791
+      campo_bacchette_incrociate_1_1_24: 8654070215359429502
+      campo_bacchette_incrociate_1_1_3: 3882544645424463122
+      campo_bacchette_incrociate_1_1_4: -1958739987358786669
+      campo_bacchette_incrociate_1_1_5: 6802635497533540045
+      campo_bacchette_incrociate_1_1_6: -5741732237992733282
+      campo_bacchette_incrociate_1_1_7: -3151053090978762822
+      campo_bacchette_incrociate_1_1_8: -8689572525995378495
+      campo_bacchette_incrociate_1_1_9: -5034350806739801260
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
