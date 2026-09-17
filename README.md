@@ -1,10 +1,10 @@
 ## License
 
-This project is proprietary and is not licensed for use, modification, or distribution.
+This project is proprietary and is not licensed for use, modification, or distribution without the permission of the owners.
 All Rights Reserved.
 
 # Drastic Magic Duels
-A 2D videogame of magic duels made in Unity by Giovanni Battilana, music by Fabio Cuccu.
+A 2D videogame of magic duels made in Unity by Giovanni Battilana (email giovabatti91@gmail.com), music by Fabio Cuccu (email fabiocuccu95@gmail.com) in the folder Assets -> Audio -> MusicByFabio.
 
 ## Features
 - The game has 2 wizards who challenge each other in a magic duel
