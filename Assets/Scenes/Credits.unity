@@ -313,37 +313,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '<u><size=54><B>DRASTIC MAGIC DUELS DEMO</size></u>
-
-
-
-    <size=40>Game
-    Design & Programming
-
-    Giovanni Battilana
-
-
-    Game Art & Animations
-
-    Giovanni
-    Battilana
-
-
-    Soundtrack
-
-    Fabio Cuccu
-
-
-    Sound Effects
-
-    Giovanni
-    Battilana
-
-
-    \u00A9 2026 Giovanni Battilana
-
-
-    A game made with Unity Engine</size></B>'
+  m_text: "<u><size=54><B>DRASTIC MAGIC DUELS DEMO</size></u>\n\n\n<size=40>Game
+    Design & Programming\nGiovanni Battilana\n\nGame Art & Animations\nGiovanni Battilana\n\nSoundtrack\nFabio
+    Cuccu\n\nSound Effects\nGiovanni Battilana\n\n\\u00A9 2026 Giovanni Battilana,
+    \n   Fabio Cuccu\n\nA game made with Unity Engine</size></B>"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -501,6 +474,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_VertexColorAlwaysGammaSpace: 0
+  m_UseReflectionProbes: 0
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
@@ -559,7 +533,7 @@ GameObject:
   m_IsActive: 1
 --- !u!212 &1168726628
 SpriteRenderer:
-  serializedVersion: 2
+  serializedVersion: 3
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -616,6 +590,7 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+  m_BlendShapeWeights: []
 --- !u!4 &1168726629
 Transform:
   m_ObjectHideFlags: 0
